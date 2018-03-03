@@ -8,5 +8,3 @@ From "Using Docker" by Adrian Mouat published by O'Reilly media.
 
 Kevin Gaudinのmonsteridを元にしたシンプルなidenticonサーバー。
 Adrian Mouat著、オライリージャパンの「Using Docker」による。
-
-もうちょっと追加
